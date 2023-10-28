@@ -1,0 +1,29 @@
+name: hackers_toeic_vocabulary
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  animate_do: ^3.0.2
+  shape_of_view_null_safe: ^2.0.0
+  google_fonts: ^4.0.1
+  water_drop_nav_bar: ^2.2.0+5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
