@@ -1,5 +1,6 @@
 import 'package:animate_do/animate_do.dart';
 import 'package:flutter/material.dart';
+import 'package:hackers_toeic_vocabulary/pages/lession_page.dart';
 
 import '../models/list_of_lessions.dart';
 import '../models/tab_bar_model.dart';
@@ -195,7 +196,12 @@ class _DetailsPageState extends State<DetailsPage> {
                                 minWidth: size.width * 0.6,
                                 height: size.height * 0.06,
                                 color: Colors.deepPurpleAccent,
-                                onPressed: () {},
+                                onPressed: () => Navigator.push(
+                                  context,
+                                  MaterialPageRoute(
+                                    builder: (context) => LessionPage(),
+                                  ),
+                                ),
                                 child: const AppText(
                                   text: "Start",
                                   size: 16,
