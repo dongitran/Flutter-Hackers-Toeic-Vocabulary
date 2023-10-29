@@ -4,32 +4,19 @@ import 'package:flutter/services.dart';
 import 'dart:convert';
 import 'dart:math';
 
-class LessionPage extends StatelessWidget {
-  const LessionPage({super.key});
+class LessionPage extends StatefulWidget {
+  const LessionPage({
+    super.key,
+    required this.index,
+  });
+
+  final int index;
 
   @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
-        useMaterial3: true,
-      ),
-      home: const MyHomePage(title: ''),
-      debugShowCheckedModeBanner: false,
-    );
-  }
+  State<LessionPage> createState() => _LessionPageState();
 }
 
-class MyHomePage extends StatefulWidget {
-  const MyHomePage({super.key, required this.title});
-
-  final String title;
-
-  @override
-  State<MyHomePage> createState() => _MyHomePageState();
-}
-
-class _MyHomePageState extends State<MyHomePage> {
+class _LessionPageState extends State<LessionPage> {
   List<Map<String, dynamic>> commonEnglishWords = [];
   bool canUpdateDisplayedWord = true;
 
@@ -45,7 +32,8 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   void loadCommonEnglishWords() async {
-    final String jsonContent = await rootBundle.loadString('assets/lessions/day04.json');
+    final String jsonContent = await rootBundle
+        .loadString('assets/lessions/day' + (widget.index + 1).toString() + '.json');
     final Map<String, dynamic> data = json.decode(jsonContent);
     final List<dynamic> words = data['commonEnglishWords'];
     commonEnglishWords = List<Map<String, dynamic>>.from(words);
@@ -72,9 +60,9 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.black,
-        title: Text(
-          widget.title,
-          style: const TextStyle(color: Colors.white),
+        title: const Text(
+          '',
+          style: TextStyle(color: Colors.white),
         ),
       ),
       body: GestureDetector(

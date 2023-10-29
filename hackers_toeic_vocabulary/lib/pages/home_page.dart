@@ -120,7 +120,7 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
                     child: Container(
                       margin: EdgeInsets.only(top: size.height * 0.01),
                       width: size.width,
-                      height: size.height * 0.68,
+                      height: size.height * 0.17 * listOfLessons.length,
                       child: ListView.builder(
                           itemCount: listOfLessons.length,
                           physics: const NeverScrollableScrollPhysics(),
@@ -134,6 +134,7 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
                                     personData: current,
                                     tabData: null,
                                     isCameFromPersonSection: true,
+                                    index: index,
                                   ),
                                 ),
                               ),
@@ -266,6 +267,7 @@ class TabViewChild extends StatelessWidget {
                 personData: null,
                 tabData: current,
                 isCameFromPersonSection: false,
+                index: index,
               ),
             ),
           ),

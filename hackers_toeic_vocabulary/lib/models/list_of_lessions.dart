@@ -42,7 +42,7 @@ List<LessionModel> listOfLessons = [
     title: "Vũ khí bí mật",
     location: "Day 5",
     image:
-        "assets/images/22bab5ad4b9aa1027ad00a84ea7493d2c0c5e666d43d3b9413e332bdbd3f1780.jpg",
+        "assets/images/607d0368488549e7b9179724b0db4940.jpg",
     tag: 5,
   ),
 ];

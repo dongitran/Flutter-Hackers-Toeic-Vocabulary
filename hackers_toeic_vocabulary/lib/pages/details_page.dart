@@ -12,11 +12,13 @@ class DetailsPage extends StatefulWidget {
     required this.tabData,
     required this.personData,
     required this.isCameFromPersonSection,
+    required this.index,
   });
 
   final TabBarModel? tabData;
   final LessionModel? personData;
   final bool isCameFromPersonSection;
+  final int index;
 
   @override
   State<DetailsPage> createState() => _DetailsPageState();
@@ -199,7 +201,8 @@ class _DetailsPageState extends State<DetailsPage> {
                                 onPressed: () => Navigator.push(
                                   context,
                                   MaterialPageRoute(
-                                    builder: (context) => LessionPage(),
+                                    builder: (context) =>
+                                        LessionPage(index: widget.index),
                                   ),
                                 ),
                                 child: const AppText(
