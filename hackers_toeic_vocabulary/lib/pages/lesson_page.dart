@@ -4,8 +4,8 @@ import 'package:flutter/services.dart';
 import 'dart:convert';
 import 'dart:math';
 
-class LessionPage extends StatefulWidget {
-  const LessionPage({
+class LessonPage extends StatefulWidget {
+  const LessonPage({
     super.key,
     required this.index,
     required this.speed,
@@ -15,10 +15,10 @@ class LessionPage extends StatefulWidget {
   final int speed;
 
   @override
-  State<LessionPage> createState() => _LessionPageState();
+  State<LessonPage> createState() => _LessonPageState();
 }
 
-class _LessionPageState extends State<LessionPage> {
+class _LessonPageState extends State<LessonPage> {
   List<Map<String, dynamic>> commonEnglishWords = [];
   bool canUpdateDisplayedWord = true;
   String displayedWordEnglish = '';
@@ -44,7 +44,7 @@ class _LessionPageState extends State<LessionPage> {
 
   Future<void> loadCommonEnglishWords() async {
     final String jsonContent = await rootBundle
-        .loadString('assets/lessions/day${widget.index + 1}.json');
+        .loadString('assets/lessons/day${widget.index + 1}.json');
     final Map<String, dynamic> data = json.decode(jsonContent);
     final List<dynamic> words = data['commonEnglishWords'];
     commonEnglishWords = List<Map<String, dynamic>>.from(words);

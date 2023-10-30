@@ -1,6 +1,6 @@
 import 'package:animate_do/animate_do.dart';
 import 'package:flutter/material.dart';
-import 'package:hackers_toeic_vocabulary/pages/lession_page.dart';
+import 'package:hackers_toeic_vocabulary/pages/lesson_page.dart';
 
 import '../models/list_of_lessions.dart';
 import '../models/tab_bar_model.dart';
@@ -201,7 +201,7 @@ class _DetailsPageState extends State<DetailsPage> {
                                 onPressed: () => Navigator.push(
                                   context,
                                   MaterialPageRoute(
-                                    builder: (context) => LessionPage(
+                                    builder: (context) => LessonPage(
                                       index: widget.index,
                                       speed: (selected + 1),
                                     ),
