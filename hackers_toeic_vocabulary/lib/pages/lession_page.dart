@@ -8,9 +8,11 @@ class LessionPage extends StatefulWidget {
   const LessionPage({
     super.key,
     required this.index,
+    required this.speed,
   });
 
   final int index;
+  final int speed;
 
   @override
   State<LessionPage> createState() => _LessionPageState();
@@ -19,29 +21,34 @@ class LessionPage extends StatefulWidget {
 class _LessionPageState extends State<LessionPage> {
   List<Map<String, dynamic>> commonEnglishWords = [];
   bool canUpdateDisplayedWord = true;
+  String displayedWordEnglish = '';
+  String displayedWordVietnamese = '';
+  String displayedWordExample = '';
 
+  @override
   @override
   void initState() {
     super.initState();
-    loadCommonEnglishWords();
-    Timer.periodic(const Duration(seconds: 1), (timer) {
+    _initialize();
+  }
+
+  Future<void> _initialize() async {
+    await loadCommonEnglishWords();
+    updateDisplayedWord();
+    Timer.periodic(Duration(seconds: widget.speed), (timer) {
       if (canUpdateDisplayedWord) {
         updateDisplayedWord();
       }
     });
   }
 
-  void loadCommonEnglishWords() async {
+  Future<void> loadCommonEnglishWords() async {
     final String jsonContent = await rootBundle
-        .loadString('assets/lessions/day' + (widget.index + 1).toString() + '.json');
+        .loadString('assets/lessions/day${widget.index + 1}.json');
     final Map<String, dynamic> data = json.decode(jsonContent);
     final List<dynamic> words = data['commonEnglishWords'];
     commonEnglishWords = List<Map<String, dynamic>>.from(words);
   }
-
-  String displayedWordEnglish = '';
-  String displayedWordVietnamese = '';
-  String displayedWordExample = '';
 
   void updateDisplayedWord() {
     final random = Random();

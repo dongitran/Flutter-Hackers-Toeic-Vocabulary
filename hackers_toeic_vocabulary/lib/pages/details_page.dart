@@ -168,7 +168,7 @@ class _DetailsPageState extends State<DetailsPage> {
                                           const Duration(milliseconds: 200),
                                       child: Center(
                                         child: Text(
-                                          "${1 + (index) * 2}",
+                                          "${1 + index}",
                                           style: TextStyle(
                                               fontSize: 17,
                                               fontWeight: FontWeight.w500,
@@ -201,8 +201,10 @@ class _DetailsPageState extends State<DetailsPage> {
                                 onPressed: () => Navigator.push(
                                   context,
                                   MaterialPageRoute(
-                                    builder: (context) =>
-                                        LessionPage(index: widget.index),
+                                    builder: (context) => LessionPage(
+                                      index: widget.index,
+                                      speed: (selected + 1),
+                                    ),
                                   ),
                                 ),
                                 child: const AppText(
