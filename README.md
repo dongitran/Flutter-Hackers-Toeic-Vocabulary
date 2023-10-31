@@ -5,5 +5,6 @@
 ## Timeline
 
 ## ScreenShots
+<img src="./screenshots/welcome.jpg" alt="Demo" width="400"> &nbsp; <img src="./screenshots/home.jpg" alt="Demo" width="400">
 
 ## License
