@@ -1,218 +1,203 @@
 {
   "commonEnglishWords": [
     {
-      "english": "lax",
-      "vietnamese": "(adj) không cẩn thận, không chú ý, thiếu nghiêm túc",
+      "english": "accustomed",
+      "vietnamese": "(adj) quen với, thành thói quen",
       "example": ""
     },
     {
-      "english": "procrastinate",
-      "vietnamese": "(v) trì hoãn, chần chừ",
+      "english": "corporation",
+      "vietnamese": "(n) công ty, tập đoàn",
       "example": ""
     },
     {
-      "english": "combined",
-      "vietnamese": "(adj) được kết hợp, chung, tổng hợp",
+      "english": "demanding",
+      "vietnamese": "(adj) đòi hỏi khắc khe",
       "example": ""
     },
     {
-      "english": "accomplish",
-      "vietnamese": "(v) hoàn thành, làm xong, đạt được, có đủ tài năng",
-      "example": ""
-    },
-    {
-      "english": "voluntarily",
-      "vietnamese": "(adv) tự nguyện, tình nguyện",
-      "example": ""
-    },
-    {
-      "english": "undertake",
-      "vietnamese": "(v) đảm nhận, tiếp nhận",
-      "example": ""
-    },
-    {
-      "english": "assume",
-      "vietnamese": "(v) cho rằng, giả sử/đảm đương, gánh vác",
-      "example": ""
-    },
-    {
-      "english": "occasionally",
-      "vietnamese": "(adv) thỉnh thoảng, đổi khi",
-      "example": ""
-    },
-    {
-      "english": "employee",
-      "vietnamese": "(n) nhân viên, người lao động",
-      "example": ""
-    },
-    {
-      "english": "assist (width)",
-      "vietnamese": "(v) trợ giúp, hỗ trợ",
-      "example": ""
-    },
-    {
-      "english": "satisfield (width)",
-      "vietnamese": "(adj) hài lòng, thõa mãn",
-      "example": ""
-    },
-    {
-      "english": "manner",
-      "vietnamese": "(n) (cái) cách, lối/ thái độ, cử chỉ",
-      "example": ""
-    },
-    {
-      "english": "responsible (for)",
-      "vietnamese": "(adj) có trách nhiệm, chịu trách nhiệm về",
-      "example": ""
-    },
-    {
-      "english": "conduct",
-      "vietnamese": "(v) tiến hành, chỉ đạo, điều khiển",
-      "example": ""
-    },
-    {
-      "english": "adjust (to)",
-      "vietnamese": "(v) điều chỉnh, làm cho thích hợp",
-      "example": ""
-    },
-    {
-      "english": "personnel",
-      "vietnamese": "(n) nhân viên, nhân sự",
-      "example": ""
-    },
-    {
-      "english": "agree (on/to/with)",
-      "vietnamese": "(v) đồng ý",
-      "example": ""
-    },
-    {
-      "english": "supervise",
-      "vietnamese": "(v) giám sát",
-      "example": ""
-    },
-    {
-      "english": "coworker",
+      "english": "colleague",
       "vietnamese": "(n) đồng nghiệp",
       "example": ""
     },
     {
-      "english": "direct (to)",
-      "vietnamese": "(v) hướng dẫn, chỉ đạo",
+      "english": "division",
+      "vietnamese": "(n) bộ phận, sự chia ra",
       "example": ""
     },
     {
-      "english": "confidential",
-      "vietnamese": "(adj) bí mật, cẩn mật, tuyệt mật",
+      "english": "request",
+      "vietnamese": "(n) lời yêu cầu, lời thỉnh cầu (v) yêu cầu",
       "example": ""
     },
     {
-      "english": "assign",
-      "vietnamese": "(v) phân công, bổ nhiệm",
+      "english": "efficiently",
+      "vietnamese": "(adv) một cách hiệu quả",
       "example": ""
     },
     {
-      "english": "leading",
-      "vietnamese": "(adj) dẫn đầu, tiên phong, hàng đầu",
+      "english": "manage",
+      "vietnamese": "(v) quản lý, xoay xở, giải quyết được",
       "example": ""
     },
     {
-      "english": "formal",
-      "vietnamese": "(adj) trang trọng, chính thức",
+      "english": "submit",
+      "vietnamese": "(v) đệ trình, nộp",
       "example": ""
     },
     {
-      "english": "remove",
-      "vietnamese": "(v) xóa, dẹp/ đuổi, cách chức",
+      "english": "directly",
+      "vietnamese": "(adv) trực tiếp, thẳng, ngay",
       "example": ""
     },
     {
-      "english": "collect",
-      "vietnamese": "(v) thu thập, tổng hợp",
+      "english": "remind",
+      "vietnamese": "(v) nhắc nhở",
       "example": ""
     },
     {
-      "english": "coordinate",
-      "vietnamese": "(v) điều phối, kết hợp",
+      "english": "instruct",
+      "vietnamese": "(v) hướng dẫn, chỉ thị, dạy",
       "example": ""
     },
     {
-      "english": "hardly",
-      "vietnamese": "(adv) hiếm khi, khó khăn, hầu như không",
+      "english": "deadline",
+      "vietnamese": "(n) hạn chót, thời hạn",
       "example": ""
     },
     {
-      "english": "abstract",
-      "vietnamese": "(adj) trừu tượng, mơ hồ",
+      "english": "sample",
+      "vietnamese": "(n) vật mẫu, mẫu thử (v) thử",
       "example": ""
     },
     {
-      "english": "directory",
-      "vietnamese": "(n) danh bạ, sổ địa chỉ",
+      "english": "notify",
+      "vietnamese": "(v) thông báo, cho biết",
       "example": ""
     },
     {
-      "english": "accountable",
-      "vietnamese": "(adj) chịu trách nhiệm/ có thể giải thích được (to/for)",
+      "english": "perform",
+      "vietnamese": "(v) thi hành, thực hiện, hoạt động(việc/bài tập/nghĩa vụ)",
       "example": ""
     },
     {
-      "english": "skillfully",
-      "vietnamese": "(adv) thành thạo, khéo léo",
+      "english": "monitor",
+      "vietnamese": "(v) giám sát, theo dõi",
       "example": ""
     },
     {
-      "english": "exclusive",
-      "vietnamese": "(adj) riêng biệt, độc quyền",
+      "english": "deserve",
+      "vietnamese": "(v) đáng, xứng đáng",
       "example": ""
     },
     {
-      "english": "intention",
-      "vietnamese": "(n) ý định, mục đích, ý muốn",
+      "english": "assignment",
+      "vietnamese": "(n) công việc, nhiệm vụ, bài tập",
       "example": ""
     },
     {
-      "english": "transform",
-      "vietnamese": "(v) biến đổi, thay đổi",
+      "english": "entire",
+      "vietnamese": "(adj) trọn ven, hoàn toàn",
       "example": ""
     },
     {
-      "english": "respectful",
-      "vietnamese": "(adj) tôn trọng, lễ phép, kính cẩn (for/with)",
+      "english": "release",
+      "vietnamese": "(v) phát hành, phóng thích, làm nhẹ bớt",
       "example": ""
     },
     {
-      "english": "duplicate",
-      "vietnamese": "(adj) bản sao (in duplicate)",
+      "english": "extension",
+      "vietnamese": "(n) sự gia hạn, sự kéo dài, sự mở rộng, máy lẻ(điện thoại)",
       "example": ""
     },
     {
-      "english": "contrary",
-      "vietnamese": "(n) sự trái ngược, điều ngược lại",
+      "english": "electronically",
+      "vietnamese": "(adv) bằng điện tử",
       "example": ""
     },
     {
-      "english": "disturbing",
-      "vietnamese": "(adj) làm nhiễu loạn, làm xáo trộn",
+      "english": "attendance",
+      "vietnamese": "(n) sự tham gia, sự có mặt",
       "example": ""
     },
     {
-      "english": "engage",
-      "vietnamese": "(v) tham gia, cam kết, thu hút",
+      "english": "absolutely",
+      "vietnamese": "(adv) hoàn toàn, chắc chắn, nhất định",
       "example": ""
     },
     {
-      "english": "foster",
-      "vietnamese": "(v) thúc đẩy, bồi dưỡng, bồi đắp",
+      "english": "delegate",
+      "vietnamese": "(v) ủy quyền, ủy thác, giao phó",
       "example": ""
     },
     {
-      "english": "neutrality",
-      "vietnamese": "(n) tính chất trung lập, thái độ trung lập",
+      "english": "attentively",
+      "vietnamese": "(adv) chăm chú, thận trọng",
       "example": ""
     },
     {
-      "english": "widely",
-      "vietnamese": "(adv) rộng, nhiều, xa",
+      "english": "supervision",
+      "vietnamese": "(n) sự giám sát",
+      "example": ""
+    },
+    {
+      "english": "workshop",
+      "vietnamese": "(n) hội thảo, buổi đào tạo",
+      "example": ""
+    },
+    {
+      "english": "draw",
+      "vietnamese": "(v) lôi kéo, thu hút",
+      "example": ""
+    },
+    {
+      "english": "revision",
+      "vietnamese": "(n) sự sửa lại, duyệt lại",
+      "example": ""
+    },
+    {
+      "english": "reluctantly",
+      "vietnamese": "(adv) miễn cưỡng, bất đắc dĩ",
+      "example": ""
+    },
+    {
+      "english": "acquaint (with)",
+      "vietnamese": "(v) làm quen với, làm cho ai quen với",
+      "example": ""
+    },
+    {
+      "english": "convey (to)",
+      "vietnamese": "(v) truyền đạt, vận chuyển",
+      "example": ""
+    },
+    {
+      "english": "check",
+      "vietnamese": "(v) kiểm tra, xem xét, xác nhận",
+      "example": ""
+    },
+    {
+      "english": "headquarters",
+      "vietnamese": "(n) trụ sở chính",
+      "example": ""
+    },
+    {
+      "english": "file",
+      "vietnamese": "(v) sắp xếp, lưu giữ(thư từ, giấy tờ); trình lên, đưa ra(văn kiện)",
+      "example": ""
+    },
+    {
+      "english": "oversee",
+      "vietnamese": "(v) quan sát, giám sát",
+      "example": ""
+    },
+    {
+      "english": "involved",
+      "vietnamese": "(adj) có tham gia vào, có liên quan",
+      "example": ""
+    },
+    {
+      "english": "concentrate",
+      "vietnamese": "(v) tập trung, chú tâm",
       "example": ""
     }
   ]
