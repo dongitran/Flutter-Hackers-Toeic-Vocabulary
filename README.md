@@ -8,3 +8,5 @@
 <img src="./screenshots/welcome.jpg" alt="Demo" width="400"> &nbsp; <img src="./screenshots/home.jpg" alt="Demo" width="400">
 
 ## License
+
+This project is distributed under the [MIT](https://opensource.org/licenses/MIT) license.
