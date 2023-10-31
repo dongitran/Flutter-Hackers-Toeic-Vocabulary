@@ -1,218 +1,213 @@
 {
   "commonEnglishWords": [
     {
-      "english": "lax",
-      "vietnamese": "(adj) không cẩn thận, không chú ý, thiếu nghiêm túc",
+      "english": "collection",
+      "vietnamese": "(n) bộ sưu tập, sự thu thập, sự quyên góp",
       "example": ""
     },
     {
-      "english": "procrastinate",
-      "vietnamese": "(v) trì hoãn, chần chừ",
+      "english": "exhibition",
+      "vietnamese": "(n) cuộc triển lãm, sự trưng bày",
       "example": ""
     },
     {
-      "english": "combined",
-      "vietnamese": "(adj) được kết hợp, chung, tổng hợp",
+      "english": "celebrity",
+      "vietnamese": "(n) người nổi tiếng",
       "example": ""
     },
     {
-      "english": "accomplish",
-      "vietnamese": "(v) hoàn thành, làm xong, đạt được, có đủ tài năng",
+      "english": "live",
+      "vietnamese": "(adj) phát sóng trực tiếp, sống",
       "example": ""
     },
     {
-      "english": "voluntarily",
-      "vietnamese": "(adv) tự nguyện, tình nguyện",
+      "english": "improvise",
+      "vietnamese": "(v) ứng biến, ngẫu hứng",
       "example": ""
     },
     {
-      "english": "undertake",
-      "vietnamese": "(v) đảm nhận, tiếp nhận",
+      "english": "popular",
+      "vietnamese": "(adj) nổi tiếng, phổ biến",
       "example": ""
     },
     {
-      "english": "assume",
-      "vietnamese": "(v) cho rằng, giả sử/đảm đương, gánh vác",
+      "english": "donation",
+      "vietnamese": "(n) sự quyên góp, từ thiện, sự tặng",
       "example": ""
     },
     {
-      "english": "occasionally",
-      "vietnamese": "(adv) thỉnh thoảng, đổi khi",
+      "english": "alumni",
+      "vietnamese": "(n) cựu sinh viên",
       "example": ""
     },
     {
-      "english": "employee",
-      "vietnamese": "(n) nhân viên, người lao động",
+      "english": "present",
+      "vietnamese": "(v) trình bày, giới thiệu (adj) có mặt, hiện diện, hiện tại, hiện thời",
       "example": ""
     },
     {
-      "english": "assist (width)",
-      "vietnamese": "(v) trợ giúp, hỗ trợ",
+      "english": "admission",
+      "vietnamese": "(n) sự nhận vào, sự thu nạp",
       "example": ""
     },
     {
-      "english": "satisfield (width)",
-      "vietnamese": "(adj) hài lòng, thõa mãn",
+      "english": "banquet",
+      "vietnamese": "(n) bữa tiệc lớn",
       "example": ""
     },
     {
-      "english": "manner",
-      "vietnamese": "(n) (cái) cách, lối/ thái độ, cử chỉ",
+      "english": "anniversary",
+      "vietnamese": "(n) lễ kỷ niệm, ngày kỷ niệm",
       "example": ""
     },
     {
-      "english": "responsible (for)",
-      "vietnamese": "(adj) có trách nhiệm, chịu trách nhiệm về",
+      "english": "required",
+      "vietnamese": "(adj) cần thiết, được yêu cầu, phải có",
       "example": ""
     },
     {
-      "english": "conduct",
-      "vietnamese": "(v) tiến hành, chỉ đạo, điều khiển",
+      "english": "succeed",
+      "vietnamese": "(v) nối tiếp, kế tiếp; thành công",
       "example": ""
     },
     {
-      "english": "adjust (to)",
-      "vietnamese": "(v) điều chỉnh, làm cho thích hợp",
+      "english": "rest",
+      "vietnamese": "(v) nghỉ ngơi, thư giãn (n) sự thư giản; phần còn lại",
       "example": ""
     },
     {
-      "english": "personnel",
-      "vietnamese": "(n) nhân viên, nhân sự",
+      "english": "fund-raising",
+      "vietnamese": "(n) việc gây quỹ",
       "example": ""
     },
     {
-      "english": "agree (on/to/with)",
-      "vietnamese": "(v) đồng ý",
+      "english": "resume",
+      "vietnamese": "(v) lấy lại, giành lại, bắt đầu lại, lại tiếp tục",
       "example": ""
     },
     {
-      "english": "supervise",
-      "vietnamese": "(v) giám sát",
+      "english": "issue",
+      "vietnamese": "(n) số báo, lần in; vấn đề",
       "example": ""
     },
     {
-      "english": "coworker",
-      "vietnamese": "(n) đồng nghiệp",
+      "english": "subscription",
+      "vietnamese": "(n) sự đăng ký, sự thuê bao, mua định kỳ",
       "example": ""
     },
     {
-      "english": "direct (to)",
-      "vietnamese": "(v) hướng dẫn, chỉ đạo",
+      "english": "appear",
+      "vietnamese": "(v) xuất hiện, trình diện",
       "example": ""
     },
     {
-      "english": "confidential",
-      "vietnamese": "(adj) bí mật, cẩn mật, tuyệt mật",
+      "english": "accompany",
+      "vietnamese": "(v) đi cùng ai đó, kèm theo",
       "example": ""
     },
     {
-      "english": "assign",
-      "vietnamese": "(v) phân công, bổ nhiệm",
+      "english": "edition",
+      "vietnamese": "(n) sự phát hành, sự xuất bản, lần in, phiên bản",
       "example": ""
     },
     {
-      "english": "leading",
-      "vietnamese": "(adj) dẫn đầu, tiên phong, hàng đầu",
+      "english": "specifically",
+      "vietnamese": "(adv) cụ thể, rõ ràng, đặc trưng",
       "example": ""
     },
     {
-      "english": "formal",
-      "vietnamese": "(adj) trang trọng, chính thức",
+      "english": "anonymous",
+      "vietnamese": "(adj) giấu tên, ẩn danh, nặc danh",
       "example": ""
     },
     {
-      "english": "remove",
-      "vietnamese": "(v) xóa, dẹp/ đuổi, cách chức",
+      "english": "commit",
+      "vietnamese": "(v) cam kết, cống hiến",
       "example": ""
     },
     {
-      "english": "collect",
-      "vietnamese": "(v) thu thập, tổng hợp",
+      "english": "informative",
+      "vietnamese": "(adj) nhiều thông tin, có kiến thức, bổ ích",
       "example": ""
     },
     {
-      "english": "coordinate",
-      "vietnamese": "(v) điều phối, kết hợp",
+      "english": "audience",
+      "vietnamese": "(n) khán giả, thính giả",
       "example": ""
     },
     {
-      "english": "hardly",
-      "vietnamese": "(adv) hiếm khi, khó khăn, hầu như không",
+      "english": "author",
+      "vietnamese": "(n) tác giả",
       "example": ""
     },
     {
-      "english": "abstract",
-      "vietnamese": "(adj) trừu tượng, mơ hồ",
+      "english": "note",
+      "vietnamese": "(v) ghi chú, lưu ý",
       "example": ""
     },
     {
-      "english": "directory",
-      "vietnamese": "(n) danh bạ, sổ địa chỉ",
+      "english": "antique",
+      "vietnamese": "(n) đồ cổ",
       "example": ""
     },
     {
-      "english": "accountable",
-      "vietnamese": "(adj) chịu trách nhiệm/ có thể giải thích được (to/for)",
+      "english": "manuscript",
+      "vietnamese": "(n) bản viết tay, bản thảo",
       "example": ""
     },
     {
-      "english": "skillfully",
-      "vietnamese": "(adv) thành thạo, khéo léo",
+      "english": "beneficial",
+      "vietnamese": "(adj) có lợi, có ích",
       "example": ""
     },
     {
-      "english": "exclusive",
-      "vietnamese": "(adj) riêng biệt, độc quyền",
+      "english": "upcoming",
+      "vietnamese": "(adj) sắp đến, sắp tới",
       "example": ""
     },
     {
-      "english": "intention",
-      "vietnamese": "(n) ý định, mục đích, ý muốn",
+      "english": "lend",
+      "vietnamese": "(v) cho mượn, cho vay",
       "example": ""
     },
     {
-      "english": "transform",
-      "vietnamese": "(v) biến đổi, thay đổi",
+      "english": "current",
+      "vietnamese": "(adj) hiện thời, đang lưu hành",
       "example": ""
     },
     {
-      "english": "respectful",
-      "vietnamese": "(adj) tôn trọng, lễ phép, kính cẩn (for/with)",
+      "english": "local",
+      "vietnamese": "(adj) địa phương, cục bộ",
       "example": ""
     },
     {
-      "english": "duplicate",
-      "vietnamese": "(adj) bản sao (in duplicate)",
+      "english": "variety",
+      "vietnamese": "(n) sự đa dạng, trạng thái khác nhau, giống, loại",
       "example": ""
     },
     {
-      "english": "contrary",
-      "vietnamese": "(n) sự trái ngược, điều ngược lại",
+      "english": "advocate",
+      "vietnamese": "(n) người ủng hộ, người biện hộ",
       "example": ""
     },
     {
-      "english": "disturbing",
-      "vietnamese": "(adj) làm nhiễu loạn, làm xáo trộn",
+      "english": "contributor",
+      "vietnamese": "(n) người cống hiến, người đóng góp",
       "example": ""
     },
     {
-      "english": "engage",
-      "vietnamese": "(v) tham gia, cam kết, thu hút",
+      "english": "defy",
+      "vietnamese": "(v) thách thức, không tuân theo, bất chấp tất cả",
       "example": ""
     },
     {
-      "english": "foster",
-      "vietnamese": "(v) thúc đẩy, bồi dưỡng, bồi đắp",
+      "english": "fascinating",
+      "vietnamese": "(adj) hấp dẫn, lôi cuốn, quyến rũ",
       "example": ""
     },
     {
-      "english": "neutrality",
-      "vietnamese": "(n) tính chất trung lập, thái độ trung lập",
-      "example": ""
-    },
-    {
-      "english": "widely",
-      "vietnamese": "(adv) rộng, nhiều, xa",
+      "english": "showing",
+      "vietnamese": "(n) sự trình chiếu",
       "example": ""
     }
   ]

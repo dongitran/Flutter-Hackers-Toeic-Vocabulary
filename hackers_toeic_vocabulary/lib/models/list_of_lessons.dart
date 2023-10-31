@@ -45,4 +45,18 @@ List<LessionModel> listOfLessons = [
         "assets/images/607d0368488549e7b9179724b0db4940.jpg",
     tag: 5,
   ),
+  LessionModel(
+    title: "Ngày nghỉ",
+    location: "Day 6",
+    image:
+        "assets/images/607d0368488549e7b9179724b0db4940.jpg",
+    tag: 6,
+  ),
+  LessionModel(
+    title: "Chiến lược marketing",
+    location: "Day 7",
+    image:
+        "assets/images/607d0368488549e7b9179724b0db4940.jpg",
+    tag: 5,
+  ),
 ];

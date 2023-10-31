@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 import '../models/category_model.dart';
-import '../models/list_of_lessions.dart';
+import '../models/list_of_lessons.dart';
 import '../nav_pages.dart/main_wrapper.dart';
 import '../pages/details_page.dart';
 import '../widget/reuseable_text.dart';

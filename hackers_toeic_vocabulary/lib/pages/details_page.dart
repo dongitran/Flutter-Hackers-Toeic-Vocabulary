@@ -2,7 +2,7 @@ import 'package:animate_do/animate_do.dart';
 import 'package:flutter/material.dart';
 import 'package:hackers_toeic_vocabulary/pages/lesson_page.dart';
 
-import '../models/list_of_lessions.dart';
+import '../models/list_of_lessons.dart';
 import '../models/tab_bar_model.dart';
 import '../widget/reuseable_text.dart';
 
