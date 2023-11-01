@@ -53,10 +53,17 @@ List<LessionModel> listOfLessons = [
     tag: 6,
   ),
   LessionModel(
-    title: "Chiến lược marketing",
+    title: "Chiến lược marketing (1)",
     location: "Day 7",
     image:
         "assets/images/day7.jpg",
     tag: 7,
+  ),
+  LessionModel(
+    title: "Chiến lược marketing (2)",
+    location: "Day 8",
+    image:
+        "assets/images/day8.jpg",
+    tag: 8,
   ),
 ];
